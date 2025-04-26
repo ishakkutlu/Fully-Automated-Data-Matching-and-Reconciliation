@@ -8,12 +8,12 @@ A one-click Excel VBA tool for automating data matching, reconciliation, and str
 - Mismatches and manual verification introduce high risk of human error in reporting and auditing processes.
 
 ## Key Highlights:
-One-Click Execution: Entire matching and reconciliation process is completed with a single action.
-Smart Matching Logic: Compares key fields (e.g., email addresses) and dynamically categorizes into Matches and No Match.
-Structured Data Extraction: Extracts important fields like ID, Name, Address, Phone, Status from matched records.
-Adaptability to Changes: Handles sheet/tab name changes without breaking the process.
-User-Friendly Design: No technical knowledge required; clear execution steps built for end users.
-Scalable and Efficient: Optimized to manage growing datasets without performance degradation.
+- One-Click Execution: Entire matching and reconciliation process is completed with a single action.
+- Smart Matching Logic: Compares key fields (e.g., email addresses) and dynamically categorizes into Matches and No Match.
+- Structured Data Extraction: Extracts important fields like ID, Name, Address, Phone, Status from matched records.
+- Adaptability to Changes: Handles sheet/tab name changes without breaking the process.
+- User-Friendly Design: No technical knowledge required; clear execution steps built for end users.
+- Scalable and Efficient: Optimized to manage growing datasets without performance degradation.
 
 ## Solution Components:
 - Data Matching Engine: Email, ID, or customizable fields
